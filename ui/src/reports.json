@@ -1,0 +1,172 @@
+{
+    "items": [
+        {
+            "Id": 1,
+            "Name": "BOOKINGDETAILSREPORT",
+            "DisplayText": "reportjson_bookingdetails_text",
+            "Component": "BookingDetailReport/BookingDetailReport",
+            "Description": "reportjson_bookingdetails_description",
+            "Tags": "Finance,Logistics"
+        },
+        {
+            "Id": 2,
+            "Name": "CANCELLEDCONTRACTREPORT",
+            "DisplayText": "reportjson_cancelld_contract_text",
+            "Component": "CancelledContractReport/CancelledContractReport",
+            "Description": "reportjson_cancelld_contract_description",
+            "Tags": "Finance"
+        },
+        {
+            "Id": 3,
+            "Name": "CONTRACTBILLINGREPORT",
+            "DisplayText": "reportjson_contract_billing_text",
+            "Component": "ContractBillingReport/ContractBillingReport",
+            "Description": "reportjson_contract_billing_description",
+            "Tags": "Call,HR"
+        },
+        {
+            "Id": 4,
+            "Name": "PARTRETURNREPORT",
+            "DisplayText": "reportjson_part_return_text",
+            "Component": "PartReturnReport/PartReturnReport",
+            "Description": "reportjson_part_return_description",
+            "Tags": "Logistics"
+        },
+        {
+            "Id": 5,
+            "Name": "INVOICECOLLECTIONREPORT",
+            "DisplayText": "reportjson_invoice_collection_text",
+            "Component": "InvoiceReport/InvoiceCollectionReport/InvoiceCollectionReport",
+            "Description": "reportjson_invoice_collection_description",
+            "Tags": "Parts"
+        },
+        {
+            "Id": 6,
+            "Name": "OUTSTANDINGPAYMENTREPORT",
+            "DisplayText": "reportjson_outstanding_payment_text",
+            "Component": "InvoiceReport/OutstandingPaymentReport/OutstandingPaymentReport",
+            "Description": "reportjson_outstanding_payment_description",
+            "Tags": "Finance"
+        },
+        {
+            "Id": 7,
+            "Name": "PENDINGCALLREPORT",
+            "DisplayText": "reportjson_pending_call_text",
+            "Component": "PendingCallReport/PendingCallReport",
+            "Description": "reportjson_pending_call_description",
+            "Tags": "Finance,HR"
+        },
+        {
+            "Id": 8,
+            "Name": "BARCODEREPORT",
+            "DisplayText": "reportjson_barcode_text",
+            "Component": "BarcodeReport/BarcodeReport",
+            "Description": "reportjson_barcode_description",
+            "Tags": ""
+        },
+        {
+            "Id": 9,
+            "Name": "REVENUEDUEREPORT",
+            "DisplayText": "reportjson_revenue_due_text",
+            "Component": "InvoiceReport/RevenueDueReport/RevenueDueReport",
+            "Description": "reportjson_revenue_due_description",
+            "Tags": ""
+        },
+        {
+            "Id": 10,
+            "Name": "BILINGDETAILREPORT",
+            "DisplayText": "reportjson_building_detail_text",
+            "Component": "InvoiceReport/BillingDetailReport/BillingDetailReport",
+            "Description": "reportjson_building_detail_description",
+            "Tags": ""
+        },
+        {
+            "Id": 11,
+            "Name": "FIAT-ENGINEERDETAILREPORT",
+            "DisplayText": "reportjson_fiat_engineer_detail_text",
+            "Component": "FIATEngineerDetailReport/FIATReport",
+            "Description": "reportjson_fiat_engineer_detail_description",
+            "Tags": ""
+        },
+        {
+            "Id": 12,
+            "Name": "FIAT-RECOUNTREPORT",
+            "DisplayText": "reportjson_fiat_recountre_text",
+            "Component": "FIATRECountReport/FIATRECountReport",
+            "Description": "reportjson_fiat_recountre_description",
+            "Tags": ""
+        },
+        {
+            "Id": 13,
+            "Name": "CONTRACTRENEWREPORT",
+            "DisplayText": "reportjson_contract_renew_text",
+            "Component": "ContractRenewalDueReport/ContractRenewalDueReport",
+            "Description": "reportjson_contract_renew_description",
+            "Tags": ""
+        },
+        {
+            "Id": 14,
+            "Name": "DEMANDREPORT",
+            "DisplayText": "reportjson_demand_text",
+            "Component": "DemandReport/DemandReport",
+            "Description": "reportjson_demand_description",
+            "Tags": ""
+        },
+        {
+            "Id": 15,
+            "Name": "CONSUMPTIONSUMMARYREPORT",
+            "DisplayText": "reportjson_consuption_summery_text",
+            "Component": "ConsumptionSummaryReport/ConsumptionSummaryReport",
+            "Description": "reportjson_consuption_summery_description",
+            "Tags": ""
+        },
+        {
+            "Id": 16,
+            "Name": "CONSUMPTIONREPORT",
+            "DisplayText": "reportjson_consuption_text",
+            "Component": "ConsumptionReport/ConsumptionReport",
+            "Description": "reportjson_consuption_description",
+            "Tags": ""
+        },
+        {
+            "Id": 17,
+            "Name": "CUSTOMERSITEREPORT",
+            "DisplayText": "reportjson_customer_site_text",
+            "Component": "CustomerSiteReport/CustomerSiteReport",
+            "Description": "reportjson_customer_site_description",
+            "Tags": ""
+        },
+        {
+            "Id": 18,
+            "Name": "PMASSETDETAILREPORT",
+            "DisplayText": "reportjson_pmasset_detail_text",
+            "Component": "PMAssetDetailReport/PMAssetDetailReport",
+            "Description": "reportjson_pmasset_detail_description",
+            "Tags": ""
+        },
+        {
+            "Id": 19,
+            "Name": "PMASSETSUMMARYREPORT",
+            "DisplayText": "reportjson_pmasset_summery_text",
+            "Component": "PMAssetSummaryReport/PMAssetSummaryReport",
+            "Description": "reportjson_pmasset_summery_description",
+            "Tags": ""
+        },
+        {
+            "Id": 20,
+            "Name": "PREAMCASSETDETAILREPORT",
+            "DisplayText": "reportjson_preamc_asset_detail_text",
+            "Component": "PreAmcAssetDetailReport/PreAmcAssetDetailReport",
+            "Description": "reportjson_preamc_asset_detail_description",
+            "Tags": ""
+        },
+        {
+            "Id": 21,
+            "Name": "PREAMCASSETSUMMARYREPORT",
+            "DisplayText": "reportjson_preamc_asset_summery_text",
+            "Component": "PreAmcAssetSummaryReport/PreAmcAssetSummaryReport",
+            "Description": "reportjson_preamc_asset_summery_description",
+            "Tags": ""
+        }
+    ]
+}

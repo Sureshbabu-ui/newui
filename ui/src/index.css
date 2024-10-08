@@ -1,0 +1,902 @@
+body {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 15px !important;
+}
+
+.pseudo-link {
+  cursor: pointer;
+}
+
+.pseudo-href {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+
+.href-underline-none {
+  cursor: pointer;
+  color: blue;
+  text-decoration: none;
+}
+
+.current-session {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.banks-pending-pagination>nav,
+.banks-approved-pagination>nav {
+  padding: 0;
+}
+
+/* bootstrap override */
+.form-control,
+.form-control-lg,
+.form-select {
+  border-radius: 0 !important;
+}
+
+.btn {
+  border-radius: 0 !important;
+  padding: 5px 30px !important;
+}
+
+.list-unstyled {
+  list-style-type: none;
+}
+
+.dropdown-noarrow::after {
+  content: none !important;
+}
+
+.accordion-button:focus {
+  border-color: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* bootstrap override ends */
+
+.besure-image {
+  text-align: center;
+  min-width: 10px;
+}
+
+.button-sidebar {
+  text-align: left !important;
+  text-indent: 5px;
+  color: rgb(20, 4, 4);
+}
+
+.nav.nav-pills .nav-link {
+  color: #909090;
+}
+
+.nav.nav-pills .nav-link.active {
+  background-color: white !important;
+  color: black;
+  box-sizing: border-box;
+  border-radius: 0rem;
+  font-size: medium;
+  width: 100%;
+  border: 0cap;
+  font-weight: bold;
+}
+
+.bi {
+  vertical-align: -0.125em;
+  pointer-events: none;
+  fill: currentColor;
+}
+
+.sidebar {
+  height: 90vh;
+  width: 100%;
+  /* background-color: rgb(240, 237, 247); */
+}
+
+.chartjs-render-monitor .chartjs-legend {
+  transform: rotate(-90deg) translateY(-50%) translateX(-100%);
+  transform-origin: left center;
+  width: 200px;
+  text-align: left;
+}
+
+.asset-dashboard {
+  width: 100%;
+  background-color: rgb(205, 220, 249);
+}
+
+/* Preloader starts */
+.dot-pulse {
+  position: relative;
+  left: -9999px;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #9880ff;
+  color: red;
+  box-shadow: 10000px 0 0 -5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  animation: dot-pulse 1.5s infinite linear;
+  animation-delay: 0.25s;
+  z-index: 20000000;
+}
+
+.dot-pulse::before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #9880ff;
+  color: red;
+}
+
+.dot-pulse::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #9880ff;
+  color: red;
+}
+
+.dot-pulse::before {
+  box-shadow: 9950px 0 0 -5px;
+  animation: dot-pulse-before 1.5s infinite linear;
+  animation-delay: 0s;
+}
+
+.dot-pulse::after {
+  box-shadow: 10050px 0 0 -5px;
+  animation: dot-pulse-after 1.5s infinite linear;
+  animation-delay: 0.5s;
+}
+
+@keyframes dot-pulse-before {
+  0% {
+    box-shadow: 9950px 0 0 -15px;
+  }
+
+  30% {
+    box-shadow: 9950px 0 0 2px;
+  }
+
+  60%,
+  100% {
+    box-shadow: 9950px 0 0 -15px;
+  }
+}
+
+@keyframes dot-pulse {
+  0% {
+    box-shadow: 10000px 0 0 -15px;
+  }
+
+  30% {
+    box-shadow: 10000px 0 0 2px;
+  }
+
+  60%,
+  100% {
+    box-shadow: 10000px 0 0 -15px;
+  }
+}
+
+@keyframes dot-pulse-after {
+  0% {
+    box-shadow: 10050px 0 0 -15px;
+  }
+
+  30% {
+    box-shadow: 10050px 0 0 2px;
+  }
+
+  60%,
+  100% {
+    box-shadow: 10050px 0 0 -15px;
+  }
+}
+
+.snippet {
+  position: fixed;
+  background: white;
+  top: 0;
+  left: 0;
+  opacity: 0.7;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1000000;
+}
+
+.stage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  padding-top: 40%;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Preloader ends */
+
+/* Contract Documents */
+.contract-documents td {
+  border-bottom: 1px solid #eceff1;
+  padding: 8px 0px 8px 0px !important;
+}
+
+/* Contract Documents ends*/
+
+/* App primary color settings starts*/
+.app-primary-color {
+  color: rgb(0, 55, 124) !important;
+}
+
+.app-primary-bg-color {
+  background-color: rgb(0, 55, 124) !important;
+}
+
+/* App primary bg color settings ends*/
+
+.form-check-input:checked {
+  background-color: rgb(0, 55, 124) !important;
+  border-color: rgb(0, 55, 124) !important;
+}
+
+.profileName {
+  margin-top: 6px;
+  margin-right: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: small;
+}
+
+/* Contract PreAmc */
+.contract-pre-amc {
+  padding: 8px 0px 8px 0px !important;
+}
+
+/* Contract PreAmc ends*/
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+  -webkit-text-fill-color: #333 !important;
+}
+
+.table-wrapper {
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+.sticky-header {
+  position: sticky;
+  background-color: #fff;
+  top: 50px;
+  z-index: 1;
+}
+
+.bg-row-color {
+  background-color: #ce7178;
+}
+
+.bg-column-color {
+  color: rgb(249, 244, 244);
+  text-decoration: line-through;
+}
+
+/* Settings */
+#settings-menu-wrapper>.list-group-item.active {
+  background-color: transparent;
+  color: rgb(0, 55, 124) !important;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.custom-input.form-control {
+  box-shadow: none !important;
+  border-color: #ced4da;
+  background-color: #fff;
+  color: #575149;
+}
+
+.switch-input-lg {
+  transform: scale(1.2);
+  /* Increase the size of the switch by 1.2 times */
+}
+
+/* footer */
+.footer {
+  font-size: 10px;
+}
+
+/* To display line breaks */
+.pre-line {
+  white-space: pre-line;
+}
+
+.zindex-1100 {
+  z-index: 1100 !important;
+}
+
+.zindex-2 {
+  z-index: 2 !important;
+}
+
+.version {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-left: 39px;
+  padding-bottom: 2px;
+  font-size: 0.4em;
+  font-weight: 600;
+  color: #7691ac;
+}
+
+.besure-text {
+  display: inline-block;
+  width: 60px;
+  font-weight: 900;
+}
+
+.dashboard-bg {
+  height: 150px;
+}
+
+.moving-bg {
+  background: linear-gradient(45deg, #f8f9fa, #ffffff, #fcfdff, #f6f6f6);
+  background-size: 400% 400%;
+  animation: gradient 10s ease infinite;
+}
+
+.dashboard-welcome-text {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.dashboard-widget-count {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.hardcoded {
+  background-color: chartreuse;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 80%;
+  }
+
+  50% {
+    background-position: 100% 20%;
+  }
+
+  100% {
+    background-position: 0% 80%;
+  }
+}
+
+.different-cell {
+  background-color: rgb(181, 246, 213);
+  /* or any other color you prefer */
+}
+
+.red-asterisk::after {
+  content: ' *';
+  color: red;
+}
+
+.fixed-width {
+  width: 250px;
+}
+
+.contract-booking-left-menu {
+  position: sticky;
+  top: 41px;
+  height: 100vh;
+  width: 100%;
+}
+
+.contract-booking:hover {
+  background-color: #f0f0f0;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.bold-text {
+  font-weight: 150;
+  color: #0c308a;
+}
+
+.custom-progress {
+  height: 7px;
+}
+
+.custom-progress-100 {
+  width: 100%;
+  background-color: #FFBF00;
+  height: 7px;
+}
+
+.custom-progress-50 {
+  width: 100%;
+  background-color: #50C878;
+  height: 7px;
+}
+
+.bg-invoiced {
+  background-color: #FFBF00;
+}
+
+.bg-collected {
+  background-color: #50C878;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.icon-label i {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.text-size-8 {
+  font-size: 8px;
+}
+
+.text-size-10 {
+  font-size: 10px;
+}
+
+.text-size-11 {
+  font-size: 11px;
+}
+
+.text-size-12 {
+  font-size: 13px;
+}
+
+.text-size-13 {
+  font-size: 13px;
+}
+
+.text-size-14 {
+  font-size: 14px;
+}
+
+.text-size-15 {
+  font-size: 15px;
+}
+
+.text-size-50 {
+  font-size: 50px;
+}
+
+.text-size-label {
+  font-size: 15px;
+}
+
+/* file uploader */
+.file-uploader {
+  border: 2px dashed;
+}
+
+.cw-250 {
+  width: 250px !important;
+}
+
+.calender {
+  /* change icon size */
+  display: block;
+  position: relative;
+  border-radius: 0.6em;
+  width: 40px;
+  height: 50px;
+}
+
+/* used in masters menu */
+.mastermenucard {
+  text-decoration: none;
+  color: #000000;
+}
+
+.custom-table-col-width {
+  width: 80px;
+}
+
+.custom-border {
+  border: none !important;
+}
+
+.animate-charcter {
+  background-image: linear-gradient(-225deg,
+      #231557 0%,
+      #44107a 29%,
+      #ff1361 67%,
+      #fff800 100%);
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+ul.breadcrumb {
+  list-style: none;
+}
+
+ul.breadcrumb li {
+  display: inline;
+  font-size: 14px;
+}
+
+ul.breadcrumb li a {
+  color: #0b3e6a;
+  text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+  color: #418cce;
+}
+
+.besure_logo {
+  height: 40px;
+}
+
+.accel-logo {
+  height: 60px;
+}
+
+.accel_logo {
+  width: 50% !important;
+  height: 50%;
+  padding-right: 2px;
+  padding-top: 10px;
+  bottom: 0;
+}
+
+/* tabs */
+.nav-tabs .nav-link.active {
+  background-color: none;
+  color: rgb(0, 55, 124) !important;
+  border: none;
+  border-bottom: 3px solid rgb(0, 55, 124) !important;
+  font-weight: 700;
+}
+
+.nav-tabs .nav-link {
+  border: none !important;
+  padding-left: 0 !important;
+}
+
+/* tabs ends */
+.breadcrumb {
+  height: 12px;
+}
+
+.breadcrumbs-wrapper {
+  margin-top: 60px;
+}
+
+.expanded-row {
+  height: auto;
+  overflow-y: unset;
+}
+
+.collapsed-row {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+#part-indent-orders {
+  .accordion-button::after {
+    background-size: 15px !important;
+  }
+
+  .accordion-button:not(.collapsed) {
+    color: inherit !important;
+  }
+
+  button.accordion-button:focus {
+    box-shadow: inherit !important;
+  }
+}
+
+.contract-progress {
+  .contract-progress-bar {
+    width: 100%;
+    height: 10px;
+    border-radius: 0%;
+  }
+
+  .contract-progress-bar::-webkit-progress-value {
+    background-color: #3EC991;
+  }
+
+  .contract-progress-bar::-webkit-progress-bar {
+    background-color: #E8E8E8;
+  }
+}
+
+.bgcolor-tranquil-green {
+  background-color: #3EC991;
+}
+
+.color-tranquil-green {
+  color: #3EC991;
+}
+
+.tab-button-inactive {
+  color: rgb(105, 105, 105) !important;
+  /* Text color for active tab */
+}
+
+.tab-view-height {
+  height: 360px;
+}
+
+.cart-input-size {
+  width: 20%;
+}
+
+.red-border {
+  border: 2px solid red;
+}
+
+.red-border-shadow {
+  box-shadow: -5px 0px 2px rgba(255, 0, 0, 0.5);
+}
+
+.grn-detail {
+  .grn-button {
+    cursor: pointer;
+  }
+
+  .w-30 {
+    width: 30px;
+  }
+}
+
+.nav-link-border-bottom {
+  border-bottom: 3px solid rgb(0, 55, 124) !important;
+}
+
+.border-dashed {
+  border: 2px dashed !important;
+}
+
+.user-pink {
+  border: 2px solid rgb(228, 81, 165) !important;
+}
+
+.position-fixed-custom {
+  position: fixed !important;
+  width: inherit;
+  max-width: inherit;
+}
+
+.besure-logo-homepage {
+  height: 40px;
+}
+
+.besure-login-ilustration {
+  height: 300px;
+}
+
+@media only screen and (max-width: 960px) {
+  .login-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+
+.imprest_overflow {
+  overflow-y: auto;
+  overflow-x: hidden !important;
+  max-height: 600px;
+}
+
+.preview-container {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.preview-img {
+  max-width: 100%;
+  max-height: 200px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  position: relative;
+  width: 150px;
+}
+
+#rolewiseaccordion .accordion-button::after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-plus-circle' viewBox='0 0 16 16'><path d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/><path d='M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z'/></svg>") !important;
+}
+
+#rolewiseaccordion .accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-dash-circle' viewBox='0 0 16 16'><path d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/><path d='M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z'/></svg>") !important;
+}
+
+#offcanvasrolewiseaccordion .accordion-button::after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8' fill='bg-transparent' class='bi bi-plus-circle' viewBox='0 0 12 16'><path d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/><path d='M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z'/></svg>") !important;
+}
+
+#offcanvasrolewiseaccordion .accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8' fill='bg-transparent' class='bi bi-dash-circle' viewBox='0 0 12 16'><path d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/><path d='M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z'/></svg>") !important;
+}
+
+#offcanvasrolewiseaccordion .accordion-button:not(.collapsed) {
+  background-color: transparent !important;
+}
+
+#offcanvasrolewiseaccordion .accordion-button {
+  background-color: transparent !important;
+}
+
+.custom-pointer-cursor {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.text-size-20 {
+  font-size: 20px;
+}
+
+.custom-checkbox:disabled {
+  background-color: hsl(210, 11%, 71%) !important;
+  /* Change this to your desired color */
+  border-color: #010d19 !important;
+  /* Change this to your desired color */
+}
+
+.profile-image-sm {
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+}
+
+.profile-image-md {
+  width: 100px !important;
+  height: 100px !important;
+  border-radius: 50% !important;
+}
+
+.contractview {
+  .contract-badge {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 3px 6px;
+    border: 1px solid transparent;
+    min-width: 10px;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 5px
+  }
+
+  .contract-badge.badge-primary {
+    background-color: rgb(0, 55, 124)
+  }
+
+  .contract-badge.badge-outlined {
+    background-color: transparent
+  }
+
+  .contract-badge.badge-outlined.badge-primary {
+    border-color: rgb(0, 55, 124);
+    color: rgb(0, 55, 124)
+  }
+
+  .contract-badge-selected {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 3px 6px;
+    border: 1px solid transparent;
+    min-width: 10px;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 5px
+  }
+
+  .contract-badge-selected.badge-primary {
+    background-color: rgb(0, 55, 124);
+    color: white
+  }
+}
+
+/* Custom class for the switch button */
+.custom-switch {
+  background-color: white;
+}
+
+/* Override the background color when the switch is checked */
+.custom-switch:checked {
+  background-color: rgb(0, 55, 124) !important;
+  border-color: white !important;
+  color: white !important;
+}
+
+/* Optionally, you can also customize the switch handle */
+.custom-switch:checked::before {
+  background-color: white;
+  border-color: white;
+}
+
+@keyframes highlightButton {
+  from {
+      background-position: 0 10%;
+  }
+  to {
+      background-position: 0 50;
+  }
+}
+
+.btn-highlight {
+  background: linear-gradient(to top, white 0%, lightblue 100%) right;
+    background-size: 200%;
+    transition: .5s ease-out;
+}

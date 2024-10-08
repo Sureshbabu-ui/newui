@@ -1,0 +1,579 @@
+{
+  "contractTabs": [
+    {
+      "id": 1,
+      "component": "ContractDashboard/ContractDashboard",
+      "displaytext": "Dashboard",
+      "name": "DASHBOARD",
+      "icon": "home"
+    },
+    {
+      "id": 2,
+      "component": "General/GeneralDetailsView/GeneralDetailsView",
+      "displaytext": "Details",
+      "name": "DETAILS",
+      "icon": "list"
+    },
+    {
+      "id": 3,
+      "component": "PreAMC/PreAMCManagement",
+      "displaytext": "Pre-AMC",
+      "name": "PREAMC",
+      "icon": "calendar"
+    },
+    {
+      "id": 4,
+      "component": "Assets/AssetsView/AssetsView",
+      "displaytext": "Assets",
+      "name": "ASSETS",
+      "icon": "cpu"
+    },
+    {
+      "id": 5,
+      "component": "ContractCustomer/ContractCustomer",
+      "displaytext": "Customer",
+      "name": "CUSTOMER",
+      "icon": "user"
+    },
+    {
+      "id": 6,
+      "component": "ContractCustomerSite/CustomerSiteManagement",
+      "displaytext": "Customer Site",
+      "name": "CUSTOMERSITE",
+      "icon": "map-pin"
+    },
+    {
+      "id": 7,
+      "component": "ContractManPower/ManpowerView/ManpowerView",
+      "displaytext": "Manpower",
+      "name": "MANPOWER",
+      "icon": "users"
+    },
+    {
+      "id": 8,
+      "component": "ContractDocument/ContractDocumentList",
+      "displaytext": "Documents",
+      "name": "DOCUMNETS",
+      "icon": "file"
+    },
+    {
+      "id": 9,
+      "component": "ContractInvoiceSchedule/ContractInvoiceScheduleList/ContractInvoiceScheduleList",
+      "displaytext": "Invoice Schedule",
+      "name": "INVOICESCHEDULE",
+      "icon": "calendar"
+    },
+    {
+      "id": 10,
+      "component": "ContractSetting/ContractSettingList/ContractSettingList",
+      "displaytext": "Contract Settings",
+      "name": "SETTING",
+      "icon": "settings"
+    },
+    {
+      "id": 11,
+      "component": "ContractReviewHistory/ContractReviewHistory",
+      "displaytext": "Review History",
+      "name": "REVIEWHISTORY",
+      "icon": "message-square"
+    },
+    {
+      "id": 12,
+      "component": "ContractBankGuarantee/BankGuaranteeList/BankGuaranteeList",
+      "displaytext": "Bank Guarantee",
+      "name": "BANKGUARANTEE",
+      "icon": "home"
+    },
+    {
+      "id": 13,
+      "component": "RevenueRecognition/RevenueRecognitionList/ContractRevenueRecognitionList",
+      "displaytext": "Revenue Recognition",
+      "name": "REVENUE",
+      "icon": "home"
+    },
+    {
+      "id": 14,
+      "component": "FutureUpdates/FutureUpdatesList/FutureUpdatesList",
+      "displaytext": "Future Updates",
+      "name": "FUTUREPDATES",
+      "icon": "home"
+    },
+    {
+      "id": 15,
+      "component": "PmSchedule/PmScheduleList/PmScheduleList",
+      "displaytext": "PM Schedule",
+      "name": "PMSCHEDULE",
+      "icon": "home"
+    }
+  ],
+  "userTabs": [
+    {
+      "id": 1,
+      "name": "Profile",
+      "icon": "user"
+    },
+    {
+      "id": 2,
+      "name": "Change Password",
+      "icon": "lock"
+    },
+    {
+      "id": 3,
+      "name": "Login History",
+      "icon": "list"
+    }
+  ],
+  "customerTabs": [
+    {
+      "id": 1,
+      "name": "Profile",
+      "icon": "list",
+      "content": "Customer Details"
+    },
+    {
+      "id": 2,
+      "name": "Customer Site",
+      "icon": "map-pin",
+      "content": "Customer Site Details"
+    }
+  ],
+  "serviceRequestTabs": [
+    {
+      "id": 1,
+      "name": "Customer Details",
+      "content": "CustomerDetails",
+      "component": "CustomerDetails",
+      "icon": "file-text"
+    },
+    {
+      "id": 2,
+      "name": "Events",
+      "content": "Events",
+      "component": "Events",
+      "icon": "message-square"
+    },
+    {
+      "id": 3,
+      "name": "SLA Details",
+      "content": "SlaDetails",
+      "component": "SlaDetails",
+      "icon": "clock"
+    },
+    {
+      "id": 4,
+      "name": "Exclusions",
+      "content": "Exclusions",
+      "component": "Exclusions",
+      "icon": "x-circle"
+    },
+    {
+      "id": 5,
+      "name": "Assignees",
+      "content": "AssignEngineer",
+      "component": "AssignEngineer",
+      "icon": "user-plus"
+    },
+    {
+      "id": 6,
+      "name": "Previous Tickets",
+      "content": "PreviousTickets",
+      "component": "PreviousTickets",
+      "icon": "file-text"
+    },
+    {
+      "id": 7,
+      "name": "Asset Details",
+      "content": "AssetDetails",
+      "component": "AssetDetails",
+      "icon": "monitor"
+    },
+    {
+      "id": 8,
+      "name": "Part",
+      "content": "PartIndentManagement",
+      "component": "PartIndent/PartIndentManagement",
+      "icon": "hard-drive"
+    },
+    {
+      "id": 9,
+      "name": "Stand By",
+      "content": "StandBy",
+      "component": "StandBy",
+      "icon": "clock"
+    },
+    {
+      "id": 10,
+      "name": "Call Status",
+      "content": "ServiceRequestSummary",
+      "component": "ServiceRequestSummary",
+      "icon": "phone-forwarded"
+    }
+  ],
+  "settingsTabs": [
+    {
+      "id": 1,
+      "icon": "map-pin",
+      "menuname": "Location Setting",
+      "component": "LocationSetting"
+    },
+    {
+      "id": 2,
+      "icon": "message-square",
+      "menuname": "Notification Setting",
+      "component": "NotificationSetting"
+    },
+    {
+      "id": 4,
+      "icon": "grid",
+      "menuname": "App Setting",
+      "component": "AppSetting"
+    },
+    {
+      "id": 5,
+      "icon": "file-text",
+      "menuname": "Contract Settings",
+      "component": "ContractSettings"
+    },
+    {
+      "id": 6,
+      "icon": "file-text",
+      "menuname": "Audit Logs",
+      "component": "AuditLogs"
+    },
+    {
+      "id": 7,
+      "icon": "file-text",
+      "menuname": "Document Numbers",
+      "component": "DocumentNumberHome"
+    }
+  ],
+  "tenantViewTabs": [
+    {
+      "id": 1,
+      "icon": "list",
+      "name": "COMPANYINFO",
+      "displaytext": "Company Info",
+      "component": "TenantProfile/TenantProfile"
+    },
+    {
+      "id": 2,
+      "icon": "globe",
+      "name": "REGIONS",
+      "displaytext": "Regions",
+      "component": "TenantRegion/TenantRegionList/TenantRegionList"
+    },
+    {
+      "id": 3,
+      "icon": "map-pin",
+      "name": "AREAOFFICES",
+      "displaytext": "Area Offices",
+      "component": "TenantOffice/TenantOfficeList/TenantOfficeList"
+    },
+    {
+      "id": 4,
+      "icon": "credit-card",
+      "name": "BANKACCOUNTS",
+      "displaytext": "Bank Accounts",
+      "component": "TenantBankAccount/TenantBankAccountList/TenantBankAccountList"
+    }
+  ],
+  "pcViewTabs": [
+    {
+      "id": 1,
+      "icon": "list",
+      "name": "Details",
+      "content": "To be implemented.."
+    },
+    {
+      "id": 2,
+      "icon": "hard-drive",
+      "name": "Parts Not Covered",
+      "content": "Parts Not Covered"
+    }
+  ],
+  "contractLeftMenuTabs": [
+    {
+      "id": 1,
+      "icon": "file-text",
+      "name": "Contract Details",
+      "divname": "contractDetails"
+    },
+    {
+      "id": 2,
+      "icon": "calendar",
+      "name": "Booking Details",
+      "divname": "bookingDetails"
+    },
+    {
+      "id": 3,
+      "icon": "shopping-bag",
+      "name": "PO Details",
+      "divname": "poDetails"
+    },
+    {
+      "id": 4,
+      "icon": "dollar-sign",
+      "name": "Payment Details",
+      "divname": "paymentDetails"
+    },
+    {
+      "id": 5,
+      "icon": "user-check",
+      "name": "Service Details",
+      "divname": "serviceDetails"
+    },
+    {
+      "id": 6,
+      "icon": "clock",
+      "name": "SLA Details",
+      "divname": "slaDetails"
+    },
+    {
+      "id": 7,
+      "icon": "check-circle",
+      "name": "Invoice Documents",
+      "divname": "dnfInvoiceSubmission"
+    }
+  ],
+  "masterDataDetails": [
+    {
+      "id": 1,
+      "icon": "briefcase",
+      "name": "Bank",
+      "link": "/config/masters/banks",
+      "permission": "BANK_VIEW"
+    },
+    {
+      "id": 2,
+      "icon": "slack",
+      "name": "Lookup Data",
+      "link": "/config/masters/lookupdata",
+      "permission": "LOOKUPDATA_VIEW"
+    },
+    {
+      "id": 3,
+      "icon": "pie-chart",
+      "name": "Business Division",
+      "link": "/config/masters/division",
+      "permission": "BUSINESSDIVISION_VIEW"
+    },
+    {
+      "id": 4,
+      "icon": "share-2",
+      "name": "Bank Branch",
+      "link": "/config/masters/bankbranch",
+      "permission": "BANKBRANCH_VIEW"
+    },
+    {
+      "id": 5,
+      "icon": "monitor",
+      "name": "Part Product Category",
+      "link": "/config/masters/partproductcategory",
+      "permission": "PARTPRODUCTCATEGORY_VIEW"
+    },
+    {
+      "id": 6,
+      "icon": "triangle",
+      "name": "Make",
+      "link": "/config/masters/make",
+      "permission": "MAKE_VIEW"
+    },
+    {
+      "id": 7,
+      "icon": "trello",
+      "name": "Product Model",
+      "link": "/config/masters/product",
+      "permission": "PRODUCTMODEL_VIEW"
+    },
+    {
+      "id": 8,
+      "icon": "hard-drive",
+      "name": "Part Category",
+      "link": "/config/masters/partcategory",
+      "permission": "PARTCATEGORY_VIEW"
+    },
+    {
+      "id": 9,
+      "icon": "battery",
+      "name": "Part",
+      "link": "/config/masters/parts",
+      "permission": "PART_VIEW"
+    },
+    {
+      "id": 10,
+      "icon": "award",
+      "name": "Designation",
+      "link": "/config/masters/designation",
+      "permission": "DESIGNATION_VIEW"
+    },
+    {
+      "id": 11,
+      "icon": "gitlab",
+      "name": "Role",
+      "link": "/config/masters/role",
+      "permission": "ROLE_VIEW"
+    },
+    {
+      "id": 12,
+      "icon": "clipboard",
+      "name": "Business Event",
+      "link": "/config/masters/bussinessevents",
+      "permission": "BUSINESSEVENT_VIEW"
+    },
+    {
+      "id": 13,
+      "icon": "layers",
+      "name": "Customer Group",
+      "link": "/config/masters/customergroup",
+      "permission": "CUSTOMERGROUP_VIEW"
+    },
+    {
+      "id": 14,
+      "icon": "bar-chart-2",
+      "name": "Payment Frequency",
+      "link": "/config/masters/paymentfrequency",
+      "permission": "PAYMENTFREQUENCY_VIEW"
+    },
+    {
+      "id": 15,
+      "icon": "paperclip",
+      "name": "Business Module",
+      "link": "/config/masters/businessmodule",
+      "permission": "BUSINESSMODULE_VIEW"
+    },
+    {
+      "id": 16,
+      "icon": "settings",
+      "name": "Business Function",
+      "link": "/config/masters/businessfunction",
+      "permission": "BUSINESSFUNCTION_VIEW"
+    },
+    {
+      "id": 17,
+      "icon": "lock",
+      "name": "Role Permission",
+      "link": "/config/masters/rolefunctionpermission",
+      "permission": "ROLEPERMISSION_VIEW"
+    },
+    {
+      "id": 18,
+      "icon": "book",
+      "name": "Invoice Prerequisite",
+      "link": "/config/masters/invoiceprerequisite",
+      "permission": "INVOICEPREREQUISITE_VIEW"
+    },
+    {
+      "id": 19,
+      "icon": "map",
+      "name": "States",
+      "link": "/config/masters/states",
+      "permission": "STATE_VIEW"
+    },
+    {
+      "id": 20,
+      "icon": "navigation",
+      "name": "City",
+      "link": "/config/masters/cities",
+      "permission": "CITY_VIEW"
+    },
+    {
+      "id": 21,
+      "icon": "database",
+      "name": "Stock Room",
+      "link": "/config/masters/stockrooms",
+      "permission": "STOCKROOM_VIEW"
+    },
+    {
+      "id": 22,
+      "icon": "box",
+      "name": "Stock Bin",
+      "link": "/config/masters/stockbin",
+      "permission": "STOCKBIN_VIEW"
+    },
+    {
+      "id": 23,
+      "icon": "monitor",
+      "name": "Asset Product Category",
+      "link": "/config/masters/assetproductcategory",
+      "permission": "ASSETPRODUCTCATEGORY_VIEW"
+    },
+    {
+      "id": 24,
+      "icon": "command",
+      "name": "Part Sub Category",
+      "link": "/config/masters/partsubcategorylist",
+      "permission": "PARTSUBCATEGORY_VIEW"
+    },
+    {
+      "id": 25,
+      "icon": "globe",
+      "name": "Country",
+      "link": "/config/masters/country",
+      "permission": "COUNTRY_VIEW"
+    },
+    {
+      "id": 26,
+      "icon": "dollar-sign",
+      "name": "GST Rate",
+      "link": "/config/masters/gsttaxrate",
+      "permission": "GSTRATE_VIEW"
+    }
+  ],
+  "vendorViewTabs": [
+    {
+      "id": 1,
+      "icon": "list",
+      "name": "DETAILS",
+      "component": "VendorDetails/VendorDetails",
+      "displaytext": "Details"
+    },
+    {
+      "id": 2,
+      "icon": "share-2",
+      "name": "BRANCHES",
+      "component": "VendorBranches/VendorBranches",
+      "displaytext": "Branches"
+    },
+    {
+      "id": 3,
+      "icon": "credit-card",
+      "name": "BANKACCOUNTS",
+      "component": "BankAccounts/BankAccounts",
+      "displaytext": "Bank Accounts"
+    }
+  ],
+  "smeViewTabs": [
+    {
+      "id": 1,
+      "icon": "list",
+      "name": "smeViewHome",
+      "component": "sme/home",
+      "displaytext": "Home"
+    },
+    {
+      "id": 2,
+      "icon": "share-2",
+      "name": "smeViewIndents",
+      "component": "sme/indents",
+      "displaytext": "Indents"
+    },
+    {
+      "id": 3,
+      "name": "IndentDetails",
+      "component": "sme/indentdetails",
+      "displaytext": "Indent Details"
+    },
+    {
+      "id": 4,
+      "name": "nestedTab",
+      "component": "nested/tab1",
+      "displaytext": "New"
+    },
+    {
+      "id": 5,
+      "name": "nestedTab",
+      "component": "nested/tab2",
+      "displaytext": "Hold"
+    }
+  ]
+}

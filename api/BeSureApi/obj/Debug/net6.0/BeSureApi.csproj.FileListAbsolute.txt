@@ -1,0 +1,281 @@
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.exe
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.deps.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.runtimeconfig.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.pdb
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.AssemblyReference.cache
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfoInputs.cache
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfo.cs
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CoreCompileInputs.cache
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.BeSureApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BeSureApi.props
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeSureApi.props
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeSureApi.props
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\scopedcss\bundle\BeSureApi.styles.css
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CopyComplete
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\refint\BeSureApi.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.pdb
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.genruntimeconfig.cache
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\ref\BeSureApi.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.exe
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.deps.json
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.pdb
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\scopedcss\bundle\BeSureApi.styles.css
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CopyComplete
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\refint\BeSureApi.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.pdb
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.genruntimeconfig.cache
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\obj\Debug\net6.0\ref\BeSureApi.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tismon Varghese\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Scrutor.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\DELL\Documents\GitHub\besure_poc\api\BeSureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.exe
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.deps.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.runtimeconfig.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.pdb
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Scrutor.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfo.cs
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.BeSureApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BeSureApi.props
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeSureApi.props
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeSureApi.props
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\scopedcss\bundle\BeSureApi.styles.css
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CopyComplete
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\refint\BeSureApi.dll
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.pdb
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.genruntimeconfig.cache
+C:\Users\user\Desktop\Bismi\besure_poc\api\BeSureApi\obj\Debug\net6.0\ref\BeSureApi.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.Development.json
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\appsettings.json
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.exe
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.deps.json
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.runtimeconfig.json
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\BeSureApi.pdb
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Dapper.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\MailKit.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\MimeKit.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Scrutor.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\besure_poc\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.AssemblyReference.cache
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfoInputs.cache
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfo.cs
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CoreCompileInputs.cache
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cs
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cache
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.BeSureApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BeSureApi.props
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeSureApi.props
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeSureApi.props
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\scopedcss\bundle\BeSureApi.styles.css
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CopyComplete
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.dll
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\refint\BeSureApi.dll
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.pdb
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\BeSureApi.genruntimeconfig.cache
+D:\besure_poc\api\BeSureApi\obj\Debug\net6.0\ref\BeSureApi.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\appsettings.Development.json
+D:\besure\api\BeSureApi\bin\Debug\net6.0\appsettings.json
+D:\besure\api\BeSureApi\bin\Debug\net6.0\BeSureApi.exe
+D:\besure\api\BeSureApi\bin\Debug\net6.0\BeSureApi.deps.json
+D:\besure\api\BeSureApi\bin\Debug\net6.0\BeSureApi.runtimeconfig.json
+D:\besure\api\BeSureApi\bin\Debug\net6.0\BeSureApi.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\BeSureApi.pdb
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Dapper.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\MailKit.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\MimeKit.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Scrutor.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.AssemblyReference.cache
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfoInputs.cache
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.AssemblyInfo.cs
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CoreCompileInputs.cache
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cs
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.MvcApplicationPartsAssemblyInfo.cache
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.BeSureApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BeSureApi.props
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeSureApi.props
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeSureApi.props
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\besure\api\BeSureApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\besure\api\BeSureApi\obj\Debug\net6.0\scopedcss\bundle\BeSureApi.styles.css
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.csproj.CopyComplete
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.dll
+D:\besure\api\BeSureApi\obj\Debug\net6.0\refint\BeSureApi.dll
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.pdb
+D:\besure\api\BeSureApi\obj\Debug\net6.0\BeSureApi.genruntimeconfig.cache
+D:\besure\api\BeSureApi\obj\Debug\net6.0\ref\BeSureApi.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\EPPlus.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\appsettings.Production.json
+D:\besure\api\BeSureApi\bin\Debug\net6.0\appsettings.Staging.json
+D:\besure\api\BeSureApi\bin\Debug\net6.0\HarfBuzzSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\QuestPDF.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\SkiaSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\SkiaSharp.HarfBuzz.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\besure\api\BeSureApi\bin\Debug\net6.0\NumericWordsConversion.dll

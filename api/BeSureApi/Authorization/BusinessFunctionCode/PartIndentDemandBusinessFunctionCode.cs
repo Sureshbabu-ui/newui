@@ -1,0 +1,13 @@
+﻿namespace BeSureApi.Authorization.BusinessFunctionCode
+{
+    public class PartIndentDemandBusinessFunctionCode
+    {
+        public const string PARTINDENTDEMAND_LIST_FOR_LOGISTICS = "PARTINDENTDEMAND_LIST_FOR_LOGISTICS";
+        public const string PARTINDENTDEMAND_CREATE_GIN = "PARTINDENTDEMAND_CREATE_GIN";
+        public const string PARTINDENTDEMAND_VIEW = "PARTINDENTDEMAND_VIEW";
+        public const string PARTINDENTDEMAND_REQUESTPO = "PARTINDENTDEMAND_REQUESTPO";
+        public const string PARTINDENTDEMAND_CREATEPO = "PARTINDENTDEMAND_CREATEPO";
+        public const string PARTINDENTDEMAND_DOWNLOADPO = "PARTINDENTDEMAND_DOWNLOADPO";
+        public const string PARTINDENTDEMAND_LIST_WAITING_FOR_CWH_ATTENTION = "PARTINDENTDEMAND_LIST_WAITING_FOR_CWH_ATTENTION";
+    }
+}

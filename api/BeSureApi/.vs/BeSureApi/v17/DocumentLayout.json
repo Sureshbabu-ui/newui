@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\besure-sandbox\\api\\BeSureApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|d:\\besure-sandbox\\api\\besureapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|d:\\besure-sandbox\\api\\besureapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|d:\\besure-sandbox\\api\\besureapi\\controllers\\partsubcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|solutionrelative:controllers\\partsubcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|d:\\besure-sandbox\\api\\besureapi\\controllers\\paymentfrequencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|solutionrelative:controllers\\paymentfrequencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|d:\\besure-sandbox\\api\\besureapi\\models\\partsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CE8A37-3708-4582-9B49-6BF6220D0FD3}|BeSureApi.csproj|solutionrelative:models\\partsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\besure-sandbox\\api\\BeSureApi\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "D:\\besure-sandbox\\api\\BeSureApi\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwIYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:01:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\besure-sandbox\\api\\BeSureApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\besure-sandbox\\api\\BeSureApi\\appsettings.Development.json*",
+              "RelativeToolTip": "appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T11:00:35.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartSubCategoryController.cs",
+              "DocumentMoniker": "D:\\besure-sandbox\\api\\BeSureApi\\Controllers\\PartSubCategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartSubCategoryController.cs",
+              "ToolTip": "D:\\besure-sandbox\\api\\BeSureApi\\Controllers\\PartSubCategoryController.cs",
+              "RelativeToolTip": "Controllers\\PartSubCategoryController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwFQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:59:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentFrequencyController.cs",
+              "DocumentMoniker": "D:\\besure-sandbox\\api\\BeSureApi\\Controllers\\PaymentFrequencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentFrequencyController.cs",
+              "ToolTip": "D:\\besure-sandbox\\api\\BeSureApi\\Controllers\\PaymentFrequencyController.cs",
+              "RelativeToolTip": "Controllers\\PaymentFrequencyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:59:57.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartSubCategory.cs",
+              "DocumentMoniker": "D:\\besure-sandbox\\api\\BeSureApi\\Models\\PartSubCategory.cs",
+              "RelativeDocumentMoniker": "Models\\PartSubCategory.cs",
+              "ToolTip": "D:\\besure-sandbox\\api\\BeSureApi\\Models\\PartSubCategory.cs",
+              "RelativeToolTip": "Models\\PartSubCategory.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:59:57.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
