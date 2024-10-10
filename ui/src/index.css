@@ -5,6 +5,7 @@ body {
 
 .pseudo-link {
   cursor: pointer;
+  color: #50C878;
 }
 
 .pseudo-href {
